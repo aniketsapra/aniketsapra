@@ -2,7 +2,6 @@
 
 Full Stack Developer | MERN Stack | Next.js | Python Backend | FastAPI | Passionate about building scalable web applications
 ---
-
 ### Tech Stack
 
 #### Frontend
@@ -12,29 +11,23 @@ Full Stack Developer | MERN Stack | Next.js | Python Backend | FastAPI | Passion
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
-
 #### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square&logo=api)
-
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 ---
-
 ### Featured Projects
-
 #### TurfNext
 A full-stack turf booking platform built with **Next.js**, **MongoDB**, and **Tailwind CSS**.  
 Includes user authentication, profile management, turf listing, and secure booking features.
@@ -47,7 +40,6 @@ Includes user authentication, profile management, turf listing, and secure booki
 🔗 [View Repository](https://github.com/aniketsapra/turfnext)
 
 ---
-
 #### Medicine Management System
 An inventory and billing management system for pharmacies and medical suppliers.
 
@@ -60,8 +52,7 @@ An inventory and billing management system for pharmacies and medical suppliers.
 🔗 [View Repository](https://github.com/aniketsapra/pharmize)
 
 ---
-
-### 📬 Connect with Me
+### Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://portfolioaniketsapra.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketsapra)  
