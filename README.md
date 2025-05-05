@@ -1,5 +1,3 @@
-## Hi there, I'm Aniket Sapra
-
 Full Stack Developer | MERN Stack | Next.js | Python Backend | FastAPI | Passionate about building scalable web applications
 ---
 ### Tech Stack
