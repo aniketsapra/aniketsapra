@@ -1,4 +1,4 @@
-Full Stack Developer | MERN Stack | Next.js | Python Backend | FastAPI | Passionate about building scalable web applications
+Full Stack Developer | MERN Stack | Next.js | Python Backend | FastAPI
 ---
 ###
 Tech Stack
